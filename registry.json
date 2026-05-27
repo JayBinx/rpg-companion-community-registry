@@ -1597,5 +1597,19 @@
     "github_repo": "mymylovesn14-cloud/Mallorye-",
     "repo_url": "https://mymylovesn14-cloud.github.io/Mallorye-/",
     "has_system": false
+  },
+  {
+    "name": "Improved-Alchemist-Artificer",
+    "description": "These Modified Rules add buffs and modifications to the alchemist artificer in an effort to help it compete with the other subclasses. details are as posted on dnd next on reddit by Stevek. Full design credit to them.",
+    "tags": [
+      "5e",
+      "homebrew",
+      "alchemist",
+      "artificer"
+    ],
+    "stars": 0,
+    "github_repo": "JayBinx/Improved-Alchemist-Artificer",
+    "repo_url": "https://JayBinx.github.io/Improved-Alchemist-Artificer/",
+    "has_system": false
   }
 ]
