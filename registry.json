@@ -1611,5 +1611,18 @@
     "github_repo": "JayBinx/Improved-Alchemist-Artificer",
     "repo_url": "https://JayBinx.github.io/Improved-Alchemist-Artificer/",
     "has_system": false
+  },
+  {
+    "name": "Arificer-5.5",
+    "description": "work in progress! The artificer rules for 5.5 from Eberron - Forge of the Artificer. Battlesmith and Cartographer NOT FULLY IMPLEMENTED",
+    "tags": [
+      "5e2024",
+      "artificer",
+      "class"
+    ],
+    "stars": 0,
+    "github_repo": "JayBinx/Arificer-5.5",
+    "repo_url": "https://JayBinx.github.io/Arificer-5.5/",
+    "has_system": false
   }
 ]
